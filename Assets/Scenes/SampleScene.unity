@@ -123,7 +123,7 @@ GameObject:
   - component: {fileID: 365210780}
   - component: {fileID: 365210781}
   m_Layer: 0
-  m_Name: GameObject
+  m_Name: 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -156,6 +156,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   gamesWon: 11
+  winRate: 0
   botName: Brokenice
   usesMiniMax: 1
 --- !u!1 &519420028
